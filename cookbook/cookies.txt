@@ -1,5 +1,5 @@
 Ingrediance:
---flour: 1 cup
+--flour: 1.5 cup
 --agawa syrup: 1/4 cup
 
 Precodure:
